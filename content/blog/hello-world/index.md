@@ -26,6 +26,21 @@ like Angular. Yeah, that totally didn't happen to me.
 ###What is our problem?
 
 In order to create a brand new Gatsby site of your own,
+you should be running the command
+
+1- create your locl repo on your machine
+2 - cd into your local repo
+3 - run, git init
+3a - go create your remote repo on the web, grab the ssl link
+4 - run, git remote add origin (url of the remote repo)
+* you can find it like so
+5- git status
+6- git commit
+5 - git pull origin master --allow-unrelated-histories
+6 - git push
+
+<!-- git remote add origin git@github.com:krtb/seasons.git
+git push -u origin master ?-->
 
 
 

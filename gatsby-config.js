@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Paranoid Android`,
+    title: `Control + Command + Escape`,
     author: `Kurt Bauer`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
